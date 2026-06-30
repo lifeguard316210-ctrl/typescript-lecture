@@ -21,3 +21,5 @@ slime.attack();
 slime.takeDamage(40);
 slime.showStatus();
 slime.attack();
+
+//test
